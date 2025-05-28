@@ -1,0 +1,14 @@
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\bin\Debug\net8.0\Tarea1Programada.exe
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\bin\Debug\net8.0\Tarea1Programada.deps.json
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\bin\Debug\net8.0\Tarea1Programada.runtimeconfig.json
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\bin\Debug\net8.0\Tarea1Programada.dll
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\bin\Debug\net8.0\Tarea1Programada.pdb
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.AssemblyInfoInputs.cache
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.AssemblyInfo.cs
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.csproj.CoreCompileInputs.cache
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.dll
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\refint\Tarea1Programada.dll
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.pdb
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\Tarea1Programada.genruntimeconfig.cache
+C:\ProgramacionAvanzada\Tarea1Programada\Tarea1Programada\Tarea1Programada\obj\Debug\net8.0\ref\Tarea1Programada.dll
